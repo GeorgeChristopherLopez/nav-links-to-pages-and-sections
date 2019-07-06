@@ -1,0 +1,49 @@
+*{
+	
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+.page2{
+	background-color: #799ACA;
+	color: yellow;
+}
+
+.home{
+	background-color: #782C41;
+	color: #FFFFFF;
+}
+
+a{
+	text-decoration: none;
+	color: black;
+}
+
+ul{
+	display: flex;
+	margin: 0 auto;
+	text-align: center;
+	float: center;
+}
+
+li{
+	display: flex;
+	padding: 10px;
+	color: yellow;
+
+}
+
+header {
+	background-color: white;
+	height: 110px;
+	border: 1px solid black;
+	padding: 50px;
+	text-align: center;
+}
+
+footer{
+	background-color: grey;
+	font-size: 10px;
+	height: 110px;
+}
